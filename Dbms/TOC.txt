@@ -1,0 +1,15 @@
+LAB 1 : Create table, Insert, Display
+LAB 2 : Where clause with comparision. IN / NOT IN.
+LAB 3 : Update Query
+LAB 4 : Update Query, Aggrgate functions
+LAB 5 : Display with WHERE clause
+LAB 6 : Nested Queries
+LAB 7 : Join operation(Inner, Outer)
+LAB 8 : Join operation(Cross, Equi, Self)
+LAB 9 : Char functions(substring, concat, length upper, lower, ltrim, rtrim)
+LAB 10 : Key Constraints(PK, FK)
+LAB 11 : Alias name, Update
+LAB 12 : View
+LAB 13 : SET comparison operations
+LAB 14 : Reecord Comparison
+
